@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=80&animation=twinkling&text=Hello,%20I'm%20MinJi%20Kim%20👋&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&animation=twinkling&text=Hello,%20I'm%20MinJi%20Kim%20👋&fontSize=30)
 
 <br>
 
