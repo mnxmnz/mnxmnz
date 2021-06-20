@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="center">😎 About ME 😎</h3>
+<h3 align="center">😎 About me 😎</h3>
 
 <p align="center">
   <img alig src="https://img.shields.io/badge/-minzidev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
@@ -18,7 +18,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Tech stack 🛠</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-f16524?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -41,12 +41,8 @@
 
 <br>
 
-<h3 align="center">✨ Github Stats✨</h3>
+<h3 align="center">✨ Projects currently in service ✨</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnxmnz&langs_count=20&layout=compact&hide=html,css,scss" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnxmnz&show_icons=true&count_private=true" />
+  <a href="https://sqoop.co.kr/" target="_blank"><img src="https://img.shields.io/badge/sqoop-195bff?style=flat-square"/></a>
 </p>
