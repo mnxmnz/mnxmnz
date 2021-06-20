@@ -8,11 +8,11 @@
   <img alig src="https://img.shields.io/badge/-minzidev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
   
   <a href="https://velog.io/@mnz">
-    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@mnz" />
+    <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@mnz" />
   </a>
   
   <a href="https://www.notion.so/329bafbc920a4758a6f794ba03ee74f7">
-    <img alig src="https://img.shields.io/badge/-Notion Portfolio-black?style=flat-square&logo=Notion&logoColor=white" />
+    <img alig src="https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Notion&logoColor=black" />
   </a>
 </p>
 
@@ -43,6 +43,4 @@
 
 <h3 align="center">✨ Projects currently in service ✨</h3>
 
-<p align="center">
-  <a href="https://sqoop.co.kr/" target="_blank"><img src="https://img.shields.io/badge/sqoop-195bff?style=flat-square"/></a>
-</p>
+<a href="https://sqoop.co.kr/" target="_blank"><h3 align="center">sqoop</h3></a>
