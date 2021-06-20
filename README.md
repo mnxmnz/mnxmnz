@@ -31,9 +31,10 @@
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Trello-0079bf?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Miro-ffd02f?style=flat-square&logo=Miro&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Trello-0079bf?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-a259ff?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
 </p>
