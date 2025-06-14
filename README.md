@@ -18,7 +18,7 @@
 ## Activities
 
 - Javacafe Community *[@javacafe](https://phantom-sycamore-adc.notion.site/6b9f59a73665403fb49e767a399314e5)* <sub><sup>(2023.09 ~ current)</sup></sub>
-- Hanghae Plus Frontend 5th *[@hanghae](https://phantom-sycamore-adc.notion.site/6b9f59a73665403fb49e767a399314e5)* <sub><sup>(2025.03 ~ 2025.06)</sup></sub>
+- Hanghae Plus Frontend 5th *[@hanghae](https://hanghae99.spartacodingclub.kr/plus/fe)* <sub><sup>(2025.03 ~ 2025.06)</sup></sub>
 - 2023 Open Source Contribution Academy *[@backend.ai](https://www.oss.kr/ossca_23_projects/show/4d5f97e5-1057-448d-91da-3bb1f6d5f838)* <sub><sup>(2023.07 ~ 2023.09)</sup></sub>
 - Depromeet 11th *[@antoon](https://github.com/depromeet/antoon-web)* <sub><sup>(2022.03 ~ 2022.07)</sup></sub>
 - SOPT 28th *[@colfume](https://github.com/mnxmnz/colfume-frontend)* <sub><sup>(2021.03 ~ 2021.07)</sup></sub>
